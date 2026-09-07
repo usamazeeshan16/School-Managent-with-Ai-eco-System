@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/school-erp-demo.html" }
+  ]
+}
